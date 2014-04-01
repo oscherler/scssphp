@@ -1,6 +1,7 @@
 /*.scss
 /*.css
 /*.php
+!/scss.inc.php
 .sass-cache
 /sass/
 /compass/
